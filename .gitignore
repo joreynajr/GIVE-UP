@@ -1,0 +1,6 @@
+software/
+ref/
+data/iMARGI_seq/filter200k_final_HEK_iMARGI.bs_1000000.chr9_chr9.pairs data/iMARGI_seq/filter200k_final_HEK_iMARGI.bs_1000000.pairs data/iMARGI_seq/filter200k_final_HEK_iMARGI.cool.gz data/iMARGI_seq/filter200k_final_HEK_iMARGI.give.gz data/iMARGI_seq/filter200k_final_HEK_iMARGI.pairs data/iMARGI_seq/filter200k_final_HFF_iMARGI.bs_1000000.chr9_chr9.pairs data/iMARGI_seq/filter200k_final_HFF_iMARGI.bs_1000000.pairs data/iMARGI_seq/filter200k_final_HFF_iMARGI.pairs data/iMARGI_seq/final_HEK_iMARGI.pairs.gz data/iMARGI_seq/final_HFF_iMARGI.bs_1000000.chr9_chr9.pairs data/iMARGI_seq/final_HFF_iMARGI.bs_1000000.pairs data/iMARGI_seq/final_HFF_iMARGI.bs_100000.chr9_chr9.pairs data/iMARGI_seq/final_HFF_iMARGI.bs_100000.pairs data/iMARGI_seq/final_HFF_iMARGI.pairs
+data/GSE122690/GSM3478205_HEK_iMARGI_10000.bedpe.gz data/GSE122690/GSM3478205_HEK_iMARGI_10000.contacts.gz data/GSE122690/GSM3478205_HEK_iMARGI.bedpe.gz data/GSE122690/GSM3478205_HEK_iMARGI.bs_1000000.contacts.gz data/GSE122690/GSM3478205_HEK_iMARGI.chr9_chr9.contacts.gz data/GSE122690/GSM3478205_HEK_iMARGI.contacts.gz data/GSE122690/GSM3478206_HFF_iMARGI.bedpe.gz
+data/example/sample_R1.fastq.gz data/example/sample_R2.fastq.gz
+output/bwa_output output/clean_fastq output/final_test_sample.pairs.gz output/parse_temp output/pipelineStats_test_sample.log
