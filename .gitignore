@@ -3,5 +3,5 @@ software/
 data/iMARGI_seq/*
 data/GSE122690/*
 data/example/*
-output/*
+output/archive/*
 scripts/.ipynb_checkpoints/*
